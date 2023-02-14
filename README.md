@@ -33,7 +33,7 @@ ALUNO: cpf_aluno (pk/int), data_nascimento (date), email (varchar), nome  (varch
 
 -> Como essas entidades estão relacionadas?
 
- INSTUIÇÕA para varios CURSOS (1:1 E 1:N)
+ INSTUIÇÃO para varios CURSOS (1:1 E 1:N)
  
  CURSOS para TURMAS (1:1 E 1:N)
  
